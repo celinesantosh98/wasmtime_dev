@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/CMakeFiles/wasmtime-crate"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/CMakeFiles/wasmtime-crate.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/CMakeFiles/wasmtime-crate-complete.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-build.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-configure.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-download.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-install.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-patch.rule"
+		},
+		{
+			"file" : "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"wasmtime-crate"
+		],
+		"name" : "wasmtime-crate"
+	}
+}

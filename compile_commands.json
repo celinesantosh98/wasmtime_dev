@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-anyref.dir/anyref.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/anyref.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/anyref.c",
+  "output": "CMakeFiles/wasmtime-anyref.dir/anyref.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -fvisibility=hidden -o CMakeFiles/wasmtime-async.dir/async.cpp.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/async.cpp",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/async.cpp",
+  "output": "CMakeFiles/wasmtime-async.dir/async.cpp.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-externref.dir/externref.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/externref.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/externref.c",
+  "output": "CMakeFiles/wasmtime-externref.dir/externref.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-fib-debug.dir/fib-debug/main.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/fib-debug/main.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/fib-debug/main.c",
+  "output": "CMakeFiles/wasmtime-fib-debug.dir/fib-debug/main.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-fuel.dir/fuel.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/fuel.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/fuel.c",
+  "output": "CMakeFiles/wasmtime-fuel.dir/fuel.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-gcd.dir/gcd.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/gcd.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/gcd.c",
+  "output": "CMakeFiles/wasmtime-gcd.dir/gcd.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-hello.dir/hello.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/hello.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/hello.c",
+  "output": "CMakeFiles/wasmtime-hello.dir/hello.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-interrupt.dir/interrupt.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/interrupt.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/interrupt.c",
+  "output": "CMakeFiles/wasmtime-interrupt.dir/interrupt.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-linking.dir/linking.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/linking.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/linking.c",
+  "output": "CMakeFiles/wasmtime-linking.dir/linking.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-memory.dir/memory.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/memory.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/memory.c",
+  "output": "CMakeFiles/wasmtime-memory.dir/memory.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-multi.dir/multi.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/multi.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/multi.c",
+  "output": "CMakeFiles/wasmtime-multi.dir/multi.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-multimemory.dir/multimemory.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/multimemory.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/multimemory.c",
+  "output": "CMakeFiles/wasmtime-multimemory.dir/multimemory.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-serialize.dir/serialize.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/serialize.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/serialize.c",
+  "output": "CMakeFiles/wasmtime-serialize.dir/serialize.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-threads.dir/threads.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/threads.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/threads.c",
+  "output": "CMakeFiles/wasmtime-threads.dir/threads.c.o"
+},
+{
+  "directory": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasmtime -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/crates/c-api/include -I/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fPIE -o CMakeFiles/wasmtime-wasi.dir/wasi/main.c.o -c /Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasi/main.c",
+  "file": "/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/examples/wasi/main.c",
+  "output": "CMakeFiles/wasmtime-wasi.dir/wasi/main.c.o"
+}
+]

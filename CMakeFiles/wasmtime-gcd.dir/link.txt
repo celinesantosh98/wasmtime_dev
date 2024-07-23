@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/wasmtime-gcd.dir/gcd.c.o" -o wasmtime-gcd  -framework CoreFoundation crates/c-api/../../target/aarch64-apple-darwin/release/libwasmtime.a

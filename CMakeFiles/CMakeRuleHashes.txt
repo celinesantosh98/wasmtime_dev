@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+cf31a51307a8e5daff3ba3be0d704020 wasmtime/CMakeFiles/doc
+a5ac386116d14cd61473b5b447db3688 wasmtime/CMakeFiles/wasmtime-crate
+1da9ca8880421f312daf8ca0a0896601 wasmtime/CMakeFiles/wasmtime-crate-complete
+8a698d4532b77fcee9b8c333a985a3d8 wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-build
+bf2316a192fb39a77eaa5ea27276b6a1 wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-configure
+6103bf1610653613fd8235a0db03b8d6 wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-download
+7c57708dbf66770e5a15fc5bfcdb31ba wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-install
+7d0099df7f00ffe6e202dcfe6d76b721 wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-mkdir
+d48b8a971f5dd87896bcaa4eee1fcc44 wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-patch
+b126b27ac8a479d1aa153cbf16383f5f wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-update

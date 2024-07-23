@@ -1,0 +1,11 @@
+[package]
+name = "celine_app"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0"
+wasmtime = { path = "../../crates/wasmtime", version = "24.0.0" }
+wasi-common = { path = "../../crates/wasi-common", version = "24.0.0" }
+wasi-cap-std-sync = "17.0.3" # Add this line
+wasmtime-wasi = { workspace = true } 

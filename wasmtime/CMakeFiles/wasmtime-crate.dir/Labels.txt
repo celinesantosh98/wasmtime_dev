@@ -1,0 +1,13 @@
+# Target labels
+ wasmtime-crate
+# Source files and their labels
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/CMakeFiles/wasmtime-crate
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/CMakeFiles/wasmtime-crate.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/CMakeFiles/wasmtime-crate-complete.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-build.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-configure.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-download.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-install.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-mkdir.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-patch.rule
+/Users/celinesantosh/Desktop/sem_5/wasmtime_dev/wasmtime/wasmtime-crate-prefix/src/wasmtime-crate-stamp/wasmtime-crate-update.rule
